@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HsrEnergyCalculator/static/css/main.dc0ab26e.css",
+    "main.js": "/HsrEnergyCalculator/static/js/main.be3019e4.js",
+    "static/js/453.5e5ed2c0.chunk.js": "/HsrEnergyCalculator/static/js/453.5e5ed2c0.chunk.js",
+    "static/media/hsrbeta.png": "/HsrEnergyCalculator/static/media/hsrbeta.b4df2f1db2f5fbddacb3.png",
+    "static/media/bootstrap-icons.woff?": "/HsrEnergyCalculator/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/HsrEnergyCalculator/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/lettersoupKardinalExtraBold.otf": "/HsrEnergyCalculator/static/media/lettersoupKardinalExtraBold.4ac18a55cbd7eb22a032.otf",
+    "static/media/lettersoupKardinalLight.otf": "/HsrEnergyCalculator/static/media/lettersoupKardinalLight.488e2a54e4930517942a.otf",
+    "static/media/Ability_Meteor_Storm.webp": "/HsrEnergyCalculator/static/media/Ability_Meteor_Storm.a268bdf69a74c8d17085.webp",
+    "static/media/Ability_Direct_Punch.webp": "/HsrEnergyCalculator/static/media/Ability_Direct_Punch.f4717c3115a183aafed3.webp",
+    "static/media/Icon_Alignment_Ultimate.webp": "/HsrEnergyCalculator/static/media/Icon_Alignment_Ultimate.83c41d3f35941606d018.webp",
+    "index.html": "/HsrEnergyCalculator/index.html",
+    "main.dc0ab26e.css.map": "/HsrEnergyCalculator/static/css/main.dc0ab26e.css.map",
+    "main.be3019e4.js.map": "/HsrEnergyCalculator/static/js/main.be3019e4.js.map",
+    "453.5e5ed2c0.chunk.js.map": "/HsrEnergyCalculator/static/js/453.5e5ed2c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc0ab26e.css",
+    "static/js/main.be3019e4.js"
+  ]
+}
